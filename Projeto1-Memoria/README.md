@@ -76,4 +76,4 @@ node dist/Index.js
 
 ---
 
-Feito com ❤️ para fins de estudo e prática em TypeScript + CLI.
+README desenvolvido com auxilo de IA visando Compliance Ass: Mario Eduardo 
