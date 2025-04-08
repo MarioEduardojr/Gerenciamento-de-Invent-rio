@@ -1,0 +1,20 @@
+{
+  "name": "gerenciamento-inventario",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de inventário em TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "keywords": ["inventario", "typescript", "cli"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.3.3"
+  }
+} 
