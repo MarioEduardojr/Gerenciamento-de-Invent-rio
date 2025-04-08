@@ -1,0 +1,19 @@
+{
+  "name": "inventario-cli-typeorm",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.1.2",
+    "typeorm": "^0.3.17"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  }
+}
