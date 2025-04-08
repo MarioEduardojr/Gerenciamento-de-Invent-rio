@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    // Versão do ECMAScript alvo
+    "target": "ES2020",
+    // Sistema de módulos
+    "module": "commonjs",
+    // Diretório de saída dos arquivos compilados
+    "outDir": "./dist",
+    // Diretório raiz dos arquivos fonte
+    "rootDir": "./src",
+    // Habilita todas as verificações de tipo estritas
+    "strict": true,
+    // Permite importação de módulos CommonJS como ES6
+    "esModuleInterop": true,
+    // Pula verificação de tipos em arquivos de declaração
+    "skipLibCheck": true,
+    // Força consistência no case dos nomes de arquivos
+    "forceConsistentCasingInFileNames": true,
+    // Habilita decorators experimentais
+    "experimentalDecorators": true,
+    // Gera source maps para depuração
+    "sourceMap": true,
+    // Não emite arquivos se houver erros
+    "noEmitOnError": true,
+    // Habilita verificações mais rigorosas de null
+    "strictNullChecks": true,
+    // Verifica se todas as funções têm retorno
+    "noImplicitReturns": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+} 
