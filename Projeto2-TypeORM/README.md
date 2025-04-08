@@ -42,3 +42,5 @@ npm run dev
 ---
 
 💡 A aplicação será expandida com os mesmos recursos do projeto anterior: CRUD completo via terminal.
+
+README desenvolvido com auxilo de IA visando Compliance Ass: Mario Eduardo
